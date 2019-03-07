@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7e7db61b58d3248ee092941a7c9bdf6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a008e540581f1afa06ea7d29d0ff440d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/277c5c05167de988d411944f3a81d456/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a337d2bfd3e292502a06ad93e0a832e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/22de5f41a65ea905ad5eb88ed3ebd85c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a3c0ab8aad3d802b37331800ae930a15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee9f4678b1b8cee33ecef33cbdd635b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ced71b1a2be9413f10a2ecce6f9c9001/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/81161773b915a3af3da8bd1060805c3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/805bae2cee5e67cc5cbac3970f9b5dde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/14fc28dd149f6a6af4ac07dc99a854b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/17e74db466b252dbd6344b7f2a43543c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c02397be774a870d9a8cea189ade1dd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd798cbe24f42104117cfe5f5d8f011c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3f7b7e49fdef54fb8d2291594754712/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dc0d468306a0c5686c465cdb94a0c4fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c0dc005cf3fdc27d5526af545d10e657/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8ccd367c18017a942ad6d74bc203618f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5a3d2224d0897d02d412c2d242d4da40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7db5e9bcfac49ee5252e324ba82c00b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f198b9c070c0e7f2577ae0bd280dcda/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/19f29a5d4916dcf371ed86c4c6bf1fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7647a20ae53bb7b94ff45ad1a60a40a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ec2d607511cae67764c34b2831de7d55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b7d139392c039e3496c13b93752d3cc4/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:3:11-43
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd798cbe24f42104117cfe5f5d8f011c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd798cbe24f42104117cfe5f5d8f011c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3f7b7e49fdef54fb8d2291594754712/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3f7b7e49fdef54fb8d2291594754712/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd798cbe24f42104117cfe5f5d8f011c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.estudosapp.MainActivity
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.estudosapp.ContadorPessoas
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:19:19-50
+activity#com.example.estudosapp.ListaMainActivity
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:20:19-52
+uses-sdk
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7e7db61b58d3248ee092941a7c9bdf6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7e7db61b58d3248ee092941a7c9bdf6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a008e540581f1afa06ea7d29d0ff440d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a008e540581f1afa06ea7d29d0ff440d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/277c5c05167de988d411944f3a81d456/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/277c5c05167de988d411944f3a81d456/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a337d2bfd3e292502a06ad93e0a832e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a337d2bfd3e292502a06ad93e0a832e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/22de5f41a65ea905ad5eb88ed3ebd85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/22de5f41a65ea905ad5eb88ed3ebd85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a3c0ab8aad3d802b37331800ae930a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a3c0ab8aad3d802b37331800ae930a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee9f4678b1b8cee33ecef33cbdd635b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee9f4678b1b8cee33ecef33cbdd635b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ced71b1a2be9413f10a2ecce6f9c9001/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ced71b1a2be9413f10a2ecce6f9c9001/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/81161773b915a3af3da8bd1060805c3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/81161773b915a3af3da8bd1060805c3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/805bae2cee5e67cc5cbac3970f9b5dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/805bae2cee5e67cc5cbac3970f9b5dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/14fc28dd149f6a6af4ac07dc99a854b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/14fc28dd149f6a6af4ac07dc99a854b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/17e74db466b252dbd6344b7f2a43543c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/17e74db466b252dbd6344b7f2a43543c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c02397be774a870d9a8cea189ade1dd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c02397be774a870d9a8cea189ade1dd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd798cbe24f42104117cfe5f5d8f011c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd798cbe24f42104117cfe5f5d8f011c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3f7b7e49fdef54fb8d2291594754712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3f7b7e49fdef54fb8d2291594754712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dc0d468306a0c5686c465cdb94a0c4fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dc0d468306a0c5686c465cdb94a0c4fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c0dc005cf3fdc27d5526af545d10e657/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c0dc005cf3fdc27d5526af545d10e657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8ccd367c18017a942ad6d74bc203618f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8ccd367c18017a942ad6d74bc203618f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5a3d2224d0897d02d412c2d242d4da40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5a3d2224d0897d02d412c2d242d4da40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7db5e9bcfac49ee5252e324ba82c00b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7db5e9bcfac49ee5252e324ba82c00b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f198b9c070c0e7f2577ae0bd280dcda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f198b9c070c0e7f2577ae0bd280dcda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/19f29a5d4916dcf371ed86c4c6bf1fe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/19f29a5d4916dcf371ed86c4c6bf1fe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7647a20ae53bb7b94ff45ad1a60a40a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7647a20ae53bb7b94ff45ad1a60a40a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ec2d607511cae67764c34b2831de7d55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ec2d607511cae67764c34b2831de7d55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b7d139392c039e3496c13b93752d3cc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b7d139392c039e3496c13b93752d3cc4/AndroidManifest.xml:20:5-44
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml

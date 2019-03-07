@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Estudos Android</string>
+
+    <!-- Main -->
+    <string name="estudos_label">Estudos APP</string>
+    <string name="estudos_list_contador_pessoas">Contador de Pessoas</string>
+    <string name="estudos_list_variavies_lista">Variáveis Lista</string>
+
+    <!-- Contador Pessoas -->
+    <string name="pessoas_reset_count">Reset</string>
+    <string name="pessoas_label">Pessoas: %1d</string>
+    <string name="pessoas_homens_count">0</string>
+    <string name="pessoas_mulheres_count">0</string>
+
+    <!-- Variáveis Lista -->
+</resources>

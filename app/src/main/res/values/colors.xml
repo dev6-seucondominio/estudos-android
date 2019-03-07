@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base -->
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#BA68C8</color>
+
+    <!-- Estudos APP -->
+    <color name="estudosHomeBgColor">#E01565C0</color>
+    <color name="estudosListBtnColor">#0D47A1</color>
+
+    <!-- Contador Pessoas -->
+    <color name="pessoasMulheresColor">#8E24AA</color>
+    <color name="pessoasHomensColor">#3F51B5</color>
+    <color name="backgroundPessoasColor">#AFB42B</color>
+    <color name="pessoasTextColor">#33691E</color>
+    <color name="pessoasResetCountBtnColor">#4E342E</color>
+    <color name="next_curse">#FFFFFF</color>
+</resources>
