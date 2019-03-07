@@ -84,14 +84,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:16:17-76
 	android:name
 		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:16:27-74
-activity#com.example.estudosapp.ContadorPessoas
-ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:19:9-52
+activity#com.example.estudosapp.contador_pessoas.ContadorPessoas
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:19:9-69
 	android:name
-		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:19:19-50
-activity#com.example.estudosapp.ListaMainActivity
-ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:20:9-54
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:19:19-67
+activity#com.example.estudosapp.lista.ListaMainActivity
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:20:9-60
 	android:name
-		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:20:19-52
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:20:19-58
 uses-sdk
 INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml

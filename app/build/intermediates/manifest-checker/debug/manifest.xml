@@ -25,8 +25,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.estudosapp.ContadorPessoas" />
-        <activity android:name="com.example.estudosapp.ListaMainActivity" />
+        <activity android:name="com.example.estudosapp.contador_pessoas.ContadorPessoas" />
+        <activity android:name="com.example.estudosapp.lista.ListaMainActivity" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

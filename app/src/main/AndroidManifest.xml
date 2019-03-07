@@ -16,8 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".ContadorPessoas"/>
-        <activity android:name=".ListaMainActivity"/>
+        <activity android:name=".contador_pessoas.ContadorPessoas"/>
+        <activity android:name=".lista.ListaMainActivity"/>
     </application>
 
 </manifest>
