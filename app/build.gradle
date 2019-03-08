@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
-def get_layouts_path(base_path) {
+def get_paths(type, base_path) {
     def names = []
     fileTree(base_path).visit { FileVisitDetails fd ->
-        if (fd.directory && fd.name != 'layout') { names << "${base_path}/${fd.name}" }
+        if (fd.directory && fd.name != type) { names << "${base_path}/${fd.name}" }
     }
     names << base_path
     names
@@ -29,7 +29,7 @@ android {
     }
     sourceSets {
 //        main.java.srcDirs += 'src/main/java/layout_lista'
-        main.res.srcDirs = [ get_layouts_path('src/main/res/layouts'), 'src/main/res' ]
+        main.res.srcDirs = [ get_paths('layout', 'src/main/res/layouts'), get_paths('drawable', 'src/main/res/drawables'), 'src/main/res' ]
     }
 }
 

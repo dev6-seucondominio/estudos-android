@@ -4,7 +4,8 @@
         xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".lista.ListaMainActivity" android:orientation="vertical" android:id="@+id/linearLayout">
+        android:id="@+id/activity_lista"
+        tools:context=".erp.lista.ListaActivity" android:orientation="vertical">
     <ListView
             tools:listitem="@layout/activity_lista_minha_celula" android:id="@+id/lista_view"
             app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="8dp"

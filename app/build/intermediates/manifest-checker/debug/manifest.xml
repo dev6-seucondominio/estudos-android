@@ -17,16 +17,32 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/AppTheme" >
-        <activity android:name="com.example.estudosapp.MainActivity" >
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity android:name="com.example.estudosapp.erp.MainActivity" >
+        </activity>
+        <activity
+            android:name="com.example.estudosapp.erp.home.HomeActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.estudosapp.contador_pessoas.ContadorPessoas" />
-        <activity android:name="com.example.estudosapp.lista.ListaMainActivity" />
+        <activity
+            android:name="com.example.estudosapp.erp.contadorPessoas.ContadorPessoasActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".erp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.estudosapp.erp.lista.ListaActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".erp.MainActivity" />
+        </activity>
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
