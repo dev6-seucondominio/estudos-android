@@ -14,16 +14,16 @@
     >
 
         <android.support.v7.widget.Toolbar
-                android:id="@+id/main_toolbar"
-                android:layout_width="match_parent"
-                android:layout_height="54dp"
-                android:background="@color/topBarBgColor"
-                android:alpha="90"
-                android:elevation="4dp"
-                android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
-                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                app:titleTextColor="@android:color/white"
-                app:subtitleTextColor="@android:color/darker_gray"
+            android:id="@+id/main_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:background="@color/topBarBgColor"
+            android:alpha="90"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:titleTextColor="@android:color/white"
+            app:subtitleTextColor="@android:color/white"
         />
 
         <FrameLayout

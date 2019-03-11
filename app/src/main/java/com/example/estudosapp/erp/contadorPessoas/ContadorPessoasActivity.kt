@@ -7,6 +7,7 @@ import com.example.estudosapp.R
 import com.example.estudosapp.erp.MainActivity
 
 class ContadorPessoasActivity : MainActivity() {
+
     // init vars
     var numeroHomens = 0
     var numeroMulheres = 0

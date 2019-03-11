@@ -3,7 +3,7 @@
     package="com.example.estudosapp"
     android:targetSandboxVersion="2"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -21,9 +21,7 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         <activity android:name="com.example.estudosapp.erp.MainActivity" >
         </activity>
-        <activity
-            android:name="com.example.estudosapp.erp.home.HomeActivity"
-            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+        <activity android:name="com.example.estudosapp.erp.home.HomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -39,6 +37,13 @@
         </activity>
         <activity
             android:name="com.example.estudosapp.erp.lista.ListaActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".erp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.estudosapp.erp.usandoSharedPreferences.UsandoSharedPreferencesActivity"
             android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

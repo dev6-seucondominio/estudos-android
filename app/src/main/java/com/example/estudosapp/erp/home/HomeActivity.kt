@@ -1,7 +1,6 @@
 package com.example.estudosapp.erp.home
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ListView
 import android.widget.Toast
@@ -9,6 +8,7 @@ import com.example.estudosapp.R
 import com.example.estudosapp.erp.MainActivity
 import com.example.estudosapp.erp.contadorPessoas.ContadorPessoasActivity
 import com.example.estudosapp.erp.lista.ListaActivity
+import com.example.estudosapp.erp.usandoSharedPreferences.UsandoSharedPreferencesActivity
 
 class HomeActivity : MainActivity() {
 
@@ -19,19 +19,24 @@ class HomeActivity : MainActivity() {
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        println("HomeActivity.onCreate")
-
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
         setMenuList()
     }
 
-    private fun openItemMenu( app: AppCompatActivity ){
-        val intent = Intent(this, app::class.java)
+    private fun openItemMenu( itemMenu: HomeListItem ){
+        currentPage = itemMenu
+
+        var app = when (itemMenu.key) {
+          "lista"                     -> ListaActivity()
+          "contador_pessoas"          -> ContadorPessoasActivity()
+          "usando_shared_preferences" -> UsandoSharedPreferencesActivity()
+          else -> null
+        }
 
         // Start the new activity.contarHomens
-        startActivity(intent)
+        startActivity(Intent(this, app!!::class.java))
     }
 
     private fun setMenuList() {
@@ -42,11 +47,7 @@ class HomeActivity : MainActivity() {
         viewList.setOnItemClickListener { _, _, position, _ ->
             val itemMenu = listAdapter[position]
 
-            when (itemMenu.key) {
-                "lista"                     -> openItemMenu( ListaActivity() )
-                "contador_pessoas"          -> openItemMenu( ContadorPessoasActivity() )
-                // "usando_shared_preferences" -> openItemMenu( UsandoSharedPreferences() )
-            }
+            openItemMenu(itemMenu)
 
             Toast.makeText(this, "Selected Item is = "+ itemMenu.label, Toast.LENGTH_SHORT).show()
         }

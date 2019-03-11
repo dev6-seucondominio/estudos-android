@@ -1,4 +1,4 @@
-#Fri Mar 08 18:39:40 BRT 2019
+#Mon Mar 11 09:55:29 BRT 2019
 base.0=/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/transforms/dexMerger/debug/7
 path.0=classes.dex
 renamed.0=classes.dex

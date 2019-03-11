@@ -702,8 +702,11 @@ id async
 id barrier
 id beginning
 id blocking
+id botaoSalvar
 id bottom
 id buttonPanel
+id campoIdade
+id campoNome
 id center
 id center_horizontal
 id center_vertical
@@ -868,6 +871,7 @@ layout activity_home_list_item
 layout activity_lista_main
 layout activity_lista_minha_celula
 layout activity_main
+layout activity_usando_shared_preferences_main
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

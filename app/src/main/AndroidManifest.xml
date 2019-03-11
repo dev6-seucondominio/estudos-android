@@ -16,7 +16,6 @@
 
         <activity
             android:name=".erp.home.HomeActivity"
-            android:parentActivityName=".erp.MainActivity"
         >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -34,6 +33,13 @@
         <activity
             android:name=".erp.lista.ListaActivity"
             android:parentActivityName=".erp.MainActivity"
+        >
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
+        </activity>
+
+        <activity
+                android:name=".erp.usandoSharedPreferences.UsandoSharedPreferencesActivity"
+                android:parentActivityName=".erp.MainActivity"
         >
             <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
         </activity>
