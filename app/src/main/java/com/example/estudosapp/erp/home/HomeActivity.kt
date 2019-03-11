@@ -6,6 +6,7 @@ import android.widget.ListView
 import android.widget.Toast
 import com.example.estudosapp.R
 import com.example.estudosapp.erp.MainActivity
+import com.example.estudosapp.erp.carregarImagens.CarregarImagensActivity
 import com.example.estudosapp.erp.contadorPessoas.ContadorPessoasActivity
 import com.example.estudosapp.erp.lista.ListaActivity
 import com.example.estudosapp.erp.usandoSharedPreferences.UsandoSharedPreferencesActivity
@@ -17,7 +18,8 @@ class HomeActivity : MainActivity() {
         mapOf("key" to  "contador_pessoas", "value" to "Contador de Pessoas"),
         mapOf("key" to "lista", "value" to "Lista"),
         mapOf("key" to "usando_shared_preferences", "value" to "Usando SharedPreferences"),
-        mapOf("key" to "usando_sq_lite", "value" to "Usando SQLite")
+        mapOf("key" to "usando_sq_lite", "value" to "Usando SQLite"),
+        mapOf("key" to "carregar_imagens", "value" to "Carregando Imagens de URLs")
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -35,6 +37,7 @@ class HomeActivity : MainActivity() {
           "contador_pessoas"          -> ContadorPessoasActivity()
           "usando_shared_preferences" -> UsandoSharedPreferencesActivity()
           "usando_sq_lite"            -> UsandoSqLiteActivity()
+          "carregar_imagens"          -> CarregarImagensActivity()
           else -> null
         }
 

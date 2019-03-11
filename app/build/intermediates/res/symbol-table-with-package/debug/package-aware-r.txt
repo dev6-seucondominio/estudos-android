@@ -704,9 +704,11 @@ id beginning
 id blocking
 id botaoSalvar
 id bottom
+id button
 id buttonPanel
 id campoIdade
 id campoNome
+id carregar_imagens_image_view
 id center
 id center_horizontal
 id center_vertical
@@ -868,6 +870,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_carregar_imagens
 layout activity_contador_pessoas
 layout activity_home
 layout activity_home_list_item
