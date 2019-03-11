@@ -3,7 +3,7 @@
     package="com.example.estudosapp"
     android:targetSandboxVersion="2"
     android:versionCode="1"
-    android:versionName="1.1" >
+    android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -44,6 +44,13 @@
         </activity>
         <activity
             android:name="com.example.estudosapp.erp.usandoSharedPreferences.UsandoSharedPreferencesActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".erp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.estudosapp.erp.usandoSqLite.UsandoSqLiteActivity"
             android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

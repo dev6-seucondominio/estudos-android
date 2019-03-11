@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7e7db61b58d3248ee092941a7c9bdf6d/AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diegodev6/.gradle/cach
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7647a20ae53bb7b94ff45ad1a60a40a9/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ec2d607511cae67764c34b2831de7d55/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b7d139392c039e3496c13b93752d3cc4/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
 	package
 		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:3:11-43
 		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
 		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-48:12
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:1-55:12
 		INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:5:5-46:19
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:5:5-53:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51a103226651ac9918b79a85205ad63d/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/diegodev6/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd798cbe24f42104117cfe5f5d8f011c/AndroidManifest.xml:22:5-94
@@ -112,6 +112,12 @@ ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/Android
 		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:42:17-63
 	android:name
 		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:41:17-92
+activity#com.example.estudosapp.erp.usandoSqLite.UsandoSqLiteActivity
+ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:47:9-52:20
+	android:parentActivityName
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:49:13-59
+	android:name
+		ADDED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml:48:13-66
 uses-sdk
 INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/AndroidManifest.xml

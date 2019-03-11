@@ -19,7 +19,7 @@ class MyListAdapter(private var activity: Activity, private var items: ArrayList
 
         init {
             this.imagemIcone         = row?.findViewById(R.id.imagemIcone)    as ImageView
-            this.nomePersonagem      = row.findViewById(R.id.textoNome)      as TextView
+            this.nomePersonagem      = row.findViewById(R.id.usandoSqLiteNome)      as TextView
             this.descricaoPersonagem = row.findViewById(R.id.textoDescricao) as TextView
         }
     }

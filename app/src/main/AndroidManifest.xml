@@ -43,6 +43,13 @@
         >
             <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
         </activity>
+
+        <activity
+            android:name=".erp.usandoSqLite.UsandoSqLiteActivity"
+            android:parentActivityName=".erp.MainActivity"
+            >
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
+        </activity>
     </application>
 
 </manifest>

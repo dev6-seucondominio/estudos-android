@@ -9,13 +9,15 @@ import com.example.estudosapp.erp.MainActivity
 import com.example.estudosapp.erp.contadorPessoas.ContadorPessoasActivity
 import com.example.estudosapp.erp.lista.ListaActivity
 import com.example.estudosapp.erp.usandoSharedPreferences.UsandoSharedPreferencesActivity
+import com.example.estudosapp.erp.usandoSqLite.UsandoSqLiteActivity
 
 class HomeActivity : MainActivity() {
 
     private var listItemMenu = listOf(
         mapOf("key" to  "contador_pessoas", "value" to "Contador de Pessoas"),
         mapOf("key" to "lista", "value" to "Lista"),
-        mapOf("key" to "usando_shared_preferences", "value" to "Usando SharedPreferences")
+        mapOf("key" to "usando_shared_preferences", "value" to "Usando SharedPreferences"),
+        mapOf("key" to "usando_sq_lite", "value" to "Usando SQLite")
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -32,6 +34,7 @@ class HomeActivity : MainActivity() {
           "lista"                     -> ListaActivity()
           "contador_pessoas"          -> ContadorPessoasActivity()
           "usando_shared_preferences" -> UsandoSharedPreferencesActivity()
+          "usando_sq_lite"            -> UsandoSqLiteActivity()
           else -> null
         }
 

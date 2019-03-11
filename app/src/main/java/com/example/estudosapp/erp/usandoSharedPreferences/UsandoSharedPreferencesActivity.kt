@@ -22,7 +22,7 @@ class UsandoSharedPreferencesActivity : MainActivity() {
         setContentView(R.layout.activity_usando_shared_preferences_main)
 
         botaoSalvar = findViewById(R.id.botaoSalvar)
-        textoNome = findViewById(R.id.textoNome)
+        textoNome = findViewById(R.id.usandoSqLiteNome)
         campoNome = findViewById(R.id.campoNome)
         campoIdade = findViewById(R.id.campoIdade)
 
