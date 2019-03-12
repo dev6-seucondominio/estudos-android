@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "122548411145",
+    "firebase_url": "https://estudos-app-1d1d4.firebaseio.com",
+    "project_id": "estudos-app-1d1d4",
+    "storage_bucket": "estudos-app-1d1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122548411145:android:b72a693e11480484",
+        "android_client_info": {
+          "package_name": "com.example.estudosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122548411145-lqdq9cuvrjta9pafks540a3t1rc2jveq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_lJsRcBSA5tiM3zERblW4UCuzK8ZTc1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
