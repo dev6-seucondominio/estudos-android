@@ -816,6 +816,10 @@
         "source": "/home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/layout_activity_quizz_home.xml.flat",
+        "source": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/res/layouts/layouts_quizz/layout/activity_quizz_home.xml"
+    },
+    {
         "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -1008,6 +1012,10 @@
         "source": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/res/drawables/lista/drawable/item5.jpg"
     },
     {
+        "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/layout_activity_quizz_resultado.xml.flat",
+        "source": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/res/layouts/layouts_quizz/layout/activity_quizz_resultado.xml"
+    },
+    {
         "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -1074,6 +1082,10 @@
     {
         "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
         "source": "/home/diegodev6/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/47d9e4fb107b2b98e13848aceb044f1f/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/layout_quizz_home_resultado_item.xml.flat",
+        "source": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/res/layouts/layouts_quizz/layout/quizz_home_resultado_item.xml"
     },
     {
         "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
@@ -1642,6 +1654,10 @@
     {
         "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
         "source": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/layout_activity_quizz.xml.flat",
+        "source": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/src/main/res/layouts/layouts_quizz/layout/activity_quizz.xml"
     },
     {
         "merged": "/home/diegodev6/AndroidStudioProjects/estudosApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",

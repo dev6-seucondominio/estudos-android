@@ -3,7 +3,7 @@
     package="com.example.estudosapp"
     android:targetSandboxVersion="2"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -67,6 +67,27 @@
         </activity>
         <activity
             android:name="com.example.estudosapp.erp.calculadora.CalculadoraActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".erp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.estudosapp.erp.quizz.QuizzHomeActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".erp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.estudosapp.erp.quizz.QuizzActivity"
+            android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".erp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.estudosapp.erp.quizz.QuizzResultadoActivity"
             android:parentActivityName="com.example.estudosapp.erp.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

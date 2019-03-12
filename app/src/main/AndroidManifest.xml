@@ -66,6 +66,26 @@
             >
             <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
         </activity>
-    </application>
 
+        <activity
+            android:name=".erp.quizz.QuizzHomeActivity"
+            android:parentActivityName=".erp.MainActivity"
+            >
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
+        </activity>
+
+        <activity
+            android:name=".erp.quizz.QuizzActivity"
+            android:parentActivityName=".erp.MainActivity"
+            >
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
+        </activity>
+
+        <activity
+            android:name=".erp.quizz.QuizzResultadoActivity"
+            android:parentActivityName=".erp.MainActivity"
+            >
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
+        </activity>
+    </application>
 </manifest>
