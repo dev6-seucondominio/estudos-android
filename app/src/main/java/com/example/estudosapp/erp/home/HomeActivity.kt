@@ -9,6 +9,7 @@ import com.example.estudosapp.erp.MainActivity
 import com.example.estudosapp.erp.carregarImagens.CarregarImagensActivity
 import com.example.estudosapp.erp.contadorPessoas.ContadorPessoasActivity
 import com.example.estudosapp.erp.lista.ListaActivity
+import com.example.estudosapp.erp.calculadora.CalculadoraActivity
 import com.example.estudosapp.erp.usandoSharedPreferences.UsandoSharedPreferencesActivity
 import com.example.estudosapp.erp.usandoSqLite.UsandoSqLiteActivity
 
@@ -19,7 +20,8 @@ class HomeActivity : MainActivity() {
         mapOf("key" to "lista", "value" to "Lista"),
         mapOf("key" to "usando_shared_preferences", "value" to "Usando SharedPreferences"),
         mapOf("key" to "usando_sq_lite", "value" to "Usando SQLite"),
-        mapOf("key" to "carregar_imagens", "value" to "Carregando Imagens de URLs")
+        mapOf("key" to "carregar_imagens", "value" to "Carregando Imagens de URLs"),
+        mapOf("key" to "calculadora", "value" to "Calculadora")
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -33,12 +35,13 @@ class HomeActivity : MainActivity() {
         currentPage = itemMenu
 
         var app = when (itemMenu.key) {
-          "lista"                     -> ListaActivity()
-          "contador_pessoas"          -> ContadorPessoasActivity()
-          "usando_shared_preferences" -> UsandoSharedPreferencesActivity()
-          "usando_sq_lite"            -> UsandoSqLiteActivity()
-          "carregar_imagens"          -> CarregarImagensActivity()
-          else -> null
+            "lista"                     -> ListaActivity()
+            "contador_pessoas"          -> ContadorPessoasActivity()
+            "usando_shared_preferences" -> UsandoSharedPreferencesActivity()
+            "usando_sq_lite"            -> UsandoSqLiteActivity()
+            "carregar_imagens"          -> CarregarImagensActivity()
+            "calculadora"               -> CalculadoraActivity()
+            else -> null
         }
 
         // Start the new activity.contarHomens

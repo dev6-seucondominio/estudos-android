@@ -59,6 +59,13 @@
             >
             <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
         </activity>
+
+        <activity
+            android:name=".erp.calculadora.CalculadoraActivity"
+            android:parentActivityName=".erp.MainActivity"
+            >
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".erp.MainActivity"/>
+        </activity>
     </application>
 
 </manifest>

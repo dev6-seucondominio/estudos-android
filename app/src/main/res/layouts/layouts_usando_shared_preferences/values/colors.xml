@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calculadoraBgColor">#DE9575CD</color>
+    <color name="calculadoraOptBgColor">#673AB7</color>
+    <color name="calculadoraOptColor">#FFFFFF</color>
+    <color name="calculadoraBtnBgColor">#B39DDB</color>
+    <color name="calculadoraBtnColor">#673AB7</color>
+    <color name="calculadoraUndefinedBgColor">#877E57C2</color>
+    <color name="calculadoraOptNullBgColor">#99B29CD9</color>
+    <color name="calculadoraNullBgColor">#81B29CD9</color>
+    <color name="calculadoraResultadoColor">#4527A0</color>
+</resources>
